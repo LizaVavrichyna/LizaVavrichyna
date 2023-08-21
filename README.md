@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **LizaVavrichyna/LizaVavrichyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -21,4 +21,4 @@ Description: AI powered Book Illustrator Social Media Platform
 
 Holiday Road
 Description: National Parks Service web application to build itineraries with maps using Graphhopper API and Leaflet
--->
+
