@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**LizaVavrichyna/LizaVavrichyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 🖥️ Full Stack Expertise
 I specialize in full-stack development, seamlessly combining the power of C#, .NET, and JavaScript to create dynamic and efficient applications. From server-side logic to interactive front-end experiences, I've got you covered.
 
