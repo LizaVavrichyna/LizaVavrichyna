@@ -9,9 +9,11 @@ I specialize in full-stack development, seamlessly combining the power of C#, .N
 
 ## My Projects
 [Imaginarium](https://github.com/LizaVavrichyna/imaginarium-react)
-Description: AI powered Book Illustrator Social Media Platform
+
+AI powered Book Illustrator Social Media Platform
 
 
 Holiday Road
-Description: National Parks Service web application to build itineraries with maps using Graphhopper API and Leaflet
+
+National Parks Service web application to build itineraries with maps using Graphhopper API and Leaflet
 
