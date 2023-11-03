@@ -8,9 +8,12 @@ I specialize in full-stack development, seamlessly combining the power of C#, .N
  📫 How to reach me: vavrichynaliza@gmail.com
 
 ### My Projects
+
+## [SkyRoutes] (https://github.com/LizaVavrichyna/SkyRoutes)
+Drone routing application using Dijkstar's algorithm 
+
 ## [Imaginarium](https://github.com/LizaVavrichyna/imaginarium-react)
 AI powered Book Illustrator Social Media Platform
-
 
 ## Holiday Road
 National Parks Service web application to build itineraries with maps using Graphhopper API and Leaflet
