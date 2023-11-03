@@ -9,7 +9,7 @@ I specialize in full-stack development, seamlessly combining the power of C#, .N
 
 ### My Projects
 
-## [SkyRoutes] (https://github.com/LizaVavrichyna/SkyRoutes)
+## [SkyRoutes](https://github.com/LizaVavrichyna/SkyRoutes)
 Drone routing application using Dijkstar's algorithm 
 
 ## [Imaginarium](https://github.com/LizaVavrichyna/imaginarium-react)
